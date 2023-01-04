@@ -1,0 +1,19 @@
+body{
+background-color: mintcream;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url(download.jpg);
+
+}
+body{
+margin: 20px;
+padding: 10px;
+border: 5px solid black;
+}
+#first{
+text-shadow: 3px;
+text-align: left;
+text-decoration: dashed;
+
+}
+
